@@ -3,10 +3,17 @@
 This repository is a GitHub template that contains materials that Stoney Jackson
 used to teach CS 351 Programming Languages in Fall 2024.
 
+## Need help?
+
+Talk to us on Discord: <https://discord.gg/EVtNSxS9E2>
+
+## License
+
 The materials in the repository are licensed under the GNU Free Documentation License 1.3 or later and/or GPL 3.0 or later. These are open-source licenses. Enjoy!
 
-To create a copy of this repository, click the green `Use this template` button ([instructions](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template#creating-a-repository-from-a-template)).
+## Getting a copy for you and your course
 
+To create a copy of this repository, click the green `Use this template` button ([instructions](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template#creating-a-repository-from-a-template)).
 
 ## Codespace
 
@@ -60,4 +67,3 @@ learn. I hope these serve as a good learning aide for students.
 ## `demos/`
 
 These are code examples I use in class when lecturing on specific topics.
-
