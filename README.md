@@ -23,7 +23,7 @@ GPL-3.0-or-later license.
 ## `readings/`
 
 `slides/` contains a textbook in slide format written by Timothy Fossum,
-the creator of PLCC. Source for these files is available at <https://github.com/ourPLCC/course>.
+the creator of PLCC. Source for these files is available at <https://github.com/ourPLCC/course>. PDFs need to be downloaded an viewed locally.
 
 `markdown/` contians files that are intended to replace a couple of the early
 chapters in `slides/` and supplement others. Specifically:

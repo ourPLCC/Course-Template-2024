@@ -22,7 +22,6 @@
                 "plantuml.render": "PlantUMLServer"
             },
             "extensions": [
-                "tomoki1207.pdf",
                 "jebbs.plantuml"
             ]
         }
