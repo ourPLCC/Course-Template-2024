@@ -1,0 +1,11 @@
+cons
+car
+cdr
+null
+isEmpty
+append
+makeSeq
+nth
+c
+locate
+locateAux

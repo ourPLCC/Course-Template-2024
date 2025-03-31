@@ -1,0 +1,5 @@
+declare f : [=>int]
+declare y : int
+define f = proc():int y
+define y = 3
+.f() 
