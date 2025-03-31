@@ -13,6 +13,19 @@ To create a copy of this repository, click the green `Use this template` button 
 This repository is designed to be opened in a Codespace. PLCC will automatically
 be installed within your Codespace as will a PDF viewer and a PlantUML previewer.
 
+## Markdown and PlantUML
+
+The markdown files contain diagrams written in PlantUML. GitHub will render the
+markdown files, but not the PlantUML diagrams. To view the diagrams, open the
+repository in Codespaces or locally in a Dev Container. Then open the file
+and open it in VS Code's previewer (CTRL+SHIFT+V).
+
+## PDFs
+
+PDFs need to be downloaded and view locally. Codespaces isn't able to
+render them. GitHub will render small PDFs, but not when they become too big.
+Theny you'll need to downlaod and view them locally.
+
 ## `languages/`
 
 <https://github.com/ourPLCC/languages> is a repository of example langauges
@@ -23,7 +36,7 @@ GPL-3.0-or-later license.
 ## `readings/`
 
 `slides/` contains a textbook in slide format written by Timothy Fossum,
-the creator of PLCC. Source for these files is available at <https://github.com/ourPLCC/course>. PDFs need to be downloaded an viewed locally.
+the creator of PLCC. Source for these files is available at <https://github.com/ourPLCC/course>.
 
 `markdown/` contians files that are intended to replace a couple of the early
 chapters in `slides/` and supplement others. Specifically:
@@ -44,9 +57,7 @@ I may not address all questions during class. I will prioritize those questions
 that many are struggling with and those that students are expected to
 learn. I hope these serve as a good learning aide for students.
 
-`demos/` are code examples I use in class when lecturing on specific topics.
+## `demos/`
 
-The markdown files contain diagrams written in PlantUML. GitHub will render the
-markdown files, but not the PlantUML diagrams. To view the diagrams, open the
-repository in Codespaces or locally in a Dev Container. Then open the file
-and open it in VS Code's previewer (CTRL+SHIFT+V).
+These are code examples I use in class when lecturing on specific topics.
+
